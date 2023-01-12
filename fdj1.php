@@ -2,18 +2,22 @@
 
 <body>
 <div class="pure-menu pure-menu-horizontal">
-    <a href="assets/img/" class="pure-menu-heading">Your Logo</a>
+
+    <div class="img">
+        <img src="assets/img/logo.png" width="270px">
+    </div>
+
+    <div>
     <ul class="pure-menu-list">
         <li class="pure-menu-item"><a href="#" class="pure-menu-link">Home</a></li>
-        <li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Pricing</a></li>
         <li class="pure-menu-item"><a href="#" class="pure-menu-link">Contact</a></li>
     </ul>
-</div>
+    </div>
 
 <div class="banner">
     <h1 class="banner-head">
-        Simple Pricing.<br>
-        Try before you buy.
+    <br>
+        
     </h1>
 </div>
 
