@@ -21,8 +21,15 @@ p {
     padding: 0.5em 2em;
 }
 .pure-menu-list{
-    display: flex;
+    display: inline-flex;
+
 }  
+
+#menuprinci{
+    text-align:center;
+    word-spacing: 50px;
+}
+
 
 .pure-menu {
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
