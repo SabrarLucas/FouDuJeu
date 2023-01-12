@@ -1,25 +1,36 @@
 <?php include("head.php");?>
 
 <body>
-<div class="pure-menu pure-menu-horizontal">
-
-    <div class="img">
-        <img src="assets/img/logo.png" width="270px">
-    </div>
-
-    <div>
-    <ul class="pure-menu-list">
-        <li class="pure-menu-item"><a href="#" class="pure-menu-link">Home</a></li>
-        <li class="pure-menu-item"><a href="#" class="pure-menu-link">Contact</a></li>
-    </ul>
-    </div>
 
 <div class="banner">
     <h1 class="banner-head">
-    <br>
-        
+    <video autoplay="true" loop  width="600">
+        <source src="assets/img/Foudejeu.mp4" />
+    </video>
     </h1>
-</div>
+</div> 
+
+<div class="pure-menu pure-menu-horizontal">
+
+    <div class="img">
+        <!-- <img src="assets/img/logo.png" width="270px"> -->
+    </div>
+
+    <div class= "pure-menu pure-menu-horizontal">
+    <ul class="pure-menu-list">
+        <li class="pure-menu-item pure-menu-selected">
+            <a href="#" class="pure-menu-link">Selected</a>
+        </li>
+        <li class="pure-menu-item">
+            <a href="#" class="pure-menu-link">Normal</a>
+        </li>
+        <li class="pure-menu-item pure-menu-disabled">
+            <a href="#" class="pure-menu-link">Disabled</a>
+        </li>
+    </ul>
+    </div>
+
+
 
 <div class="l-content">
     <div class="pricing-tables pure-g">
