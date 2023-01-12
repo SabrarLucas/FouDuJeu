@@ -14,8 +14,8 @@
 <nav class="men">
 <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="menu">
-        <li><a href="index.html">Accueil</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="#" class="poli">Accueil</a></li>
+        <li><a href="#" class="poli">Contact</a></li>
     </ul>
 </div>
 </nav>
@@ -33,14 +33,7 @@
                     </span>
                 </div>
 
-                <ul class="pricing-table-list">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
+               
 
                 <button class="button-choose pure-button"></button>
             </div>

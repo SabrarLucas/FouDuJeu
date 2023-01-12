@@ -26,10 +26,24 @@ p {
     justify-content:flex-start;
     list-style: none;
     height: 100%;
+    padding:0 0 3em;
+    padding: 20px;
 }
 
 li{
-    padding-right: 20px;
+    padding-right: 10px;
+    list-style-type: none;
+    margin: auto;
+    overflow: hidden;
+    background-color:black;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;  
+    text-decoration: none;
+} 
+
+.poli{
+    color: #ddd;
 }
 
 .banner {
@@ -37,10 +51,9 @@ li{
     0 0 no-repeat fixed;
     text-align: center;
     background-size: cover;
-
     height: 200px;
     width: 100%;
-    margin-bottom: 3em;
+    margin-bottom: 3.125em;
     display: table;
 }
 
