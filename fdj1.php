@@ -10,26 +10,16 @@
     </h1>
 </div> 
 
-<div class="pure-menu pure-menu-horizontal">
-
-    <div class="img">
-        <!-- <img src="assets/img/logo.png" width="270px"> -->
-    </div>
-
     <div class= "pure-menu pure-menu-horizontal">
     <ul class="pure-menu-list">
         <li class="pure-menu-item pure-menu-selected">
-            <a href="#" class="pure-menu-link">Selected</a>
+            <a href="#" class="pure-menu-link">Home</a>
         </li>
         <li class="pure-menu-item">
-            <a href="#" class="pure-menu-link">Normal</a>
-        </li>
-        <li class="pure-menu-item pure-menu-disabled">
-            <a href="#" class="pure-menu-link">Disabled</a>
+            <a href="#" class="pure-menu-link">Contact</a>
         </li>
     </ul>
     </div>
-
 
 
 <div class="l-content">
