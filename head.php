@@ -8,5 +8,4 @@
     <link rel="stylesheet" href="/css/pure/pure-min.css">
     <link rel="stylesheet" href="/css/pure/grids-responsive-min.css">
     <link rel="stylesheet" href="assets/css/fdj.css">
-    <title>FouDeJeux</title>
 </head>

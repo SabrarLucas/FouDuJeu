@@ -10,16 +10,15 @@
     </h1>
 </div> 
 
-    <div class="pure-menu pure-menu-horizontal" id="menuprinci">
-    <ul class="pure-menu-list">
-        <li class="pure-menu-item pure-menu-selected">
-            <class="pure-menu-link">Home</a>
-        </li>
-        <li class="pure-menu-item">
-            <class="pure-menu-link">Contact</a>
-        </li>
+
+<nav class="men">
+<div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="menu">
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="contact.html">Contact</a></li>
     </ul>
-    </div>
+</div>
+</nav>
 
 
 <div class="l-content">
