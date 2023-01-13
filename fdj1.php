@@ -26,23 +26,20 @@
         <div class="pure-u-1 pure-u-md-1-3">
             <div class="pricing-table pricing-table-free">
                 <div class="pricing-table-header">
-                    <h2></h2>
+                    <h2>Jeux classés par plateforme</h2>
 
                     <span class="pricing-table-price">
                     <span></span>
                     </span>
                 </div>
-
-               
-
-                <button class="button-choose pure-button"></button>
+            <button class="button-choose pure-button"></button>
             </div>
         </div>
 
         <div class="pure-u-1 pure-u-md-1-3">
             <div class="pricing-table pricing-table-biz pricing-table-selected">
                 <div class="pricing-table-header">
-                    <h2></h2>
+                    <h2>Jeux classés par créateurs</h2>
 
                     <span class="pricing-table-price">
                         <span></span>
@@ -50,12 +47,7 @@
                 </div>
 
                 <ul class="pricing-table-list">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                   
                 </ul>
 
                 <button class="button-choose pure-button"></button>
@@ -65,7 +57,7 @@
         <div class="pure-u-1 pure-u-md-1-3">
             <div class="pricing-table pricing-table-enterprise">
                 <div class="pricing-table-header">
-                    <h2></h2>
+                    <h2>Jeux classés par genre</h2>
 
                     <span class="pricing-table-price">
                          <span></span>
@@ -73,12 +65,7 @@
                 </div>
 
                 <ul class="pricing-table-list">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    
                 </ul>
 
                 <button class="button-choose pure-button"></button>
