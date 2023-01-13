@@ -51,7 +51,7 @@ INSERT INTO plateforme (id_plateforme, nom_plateforme) VALUES
 (12, 'PC SMARTPHONE')
 
 INSERT INTO createur (id_crea, nom_crea) VALUES
--- (1, 'RIOT Games'), trouver un autre fournisseur car association avec epic games, jeux doublons
+(1, 'Bandaï Nemco'), 
 (2, 'Electronic Arts'),
 (3, 'Nintendo'),
 (4, 'Ubisoft'),
@@ -60,7 +60,7 @@ INSERT INTO createur (id_crea, nom_crea) VALUES
 (7, 'Epic Games'),
 (8, 'Gameloft'),
 (9, 'Square Enix'),
-(10, 'Bungie Inc.')
+(10, 'ZeroGamesStudios')
 
 INSERT INTO genre (id_genre, nom_genre) VALUES
 (1, 'Les jeux de plateforme'),
@@ -79,11 +79,16 @@ INSERT INTO genre (id_genre, nom_genre) VALUES
 
 
 INSERT INTO jeux (id_jeux, nom_jeux, id_plateforme, genre_jeux, id_crea) VALUES
--- (1, 'Leagues Of Legends', '1', '5', '1'),
--- (2, 'Valorant', '1', '2', '1'),
--- (3, 'TeamFight Tactics', '12', '11', '1'),
--- (4, 'Legends Of Runeterra', '12', '11', '1'),
--- (5, 'Leagues Of Legends WildRift', '7', '5', '1'),
+(1, 'Synduality', '1', '5', '1'),
+(2, 'Armored Core VI Fires of Rubicon', '1', '2', '1'),
+(3, 'DC Justice League Chaos Cosmique', '12', '11', '1'),
+(4, 'DreamWorks dragons Legendes des neuf Royaumes', '12', '11', '1'),
+(5, 'Elden Ring', '7', '5', '1'),
+(6, 'Cyberpunk 2077', '7', '5', '1'),
+(7, 'One Piece Odyssey', '7', '5', '1'),
+(8, 'Dragon Ball the breakers', '7', '5', '1'),
+(9, 'Digimon Survive', '7', '5', '1'),
+(10, 'Peppa Pig aventures autour du monde', '7', '5', '1'),
 
 (11, 'FIFA23', '9', '12','2'),
 (12, 'APEX', '9', '2', '2'),
@@ -169,24 +174,24 @@ INSERT INTO jeux (id_jeux, nom_jeux, id_plateforme, genre_jeux, id_crea) VALUES
 (79, 'World at Arms', '6', '2','8'),
 (80, 'Dungeon Hunter 5', '6', '2','8'),
 
-(81, '', '6', '2','9'),
-(82, '', '6', '2','9'),
-(83, '', '6', '2','9'),
-(84, '', '6', '2','9'),
-(85, 'Diablo Immortal', '6', '2','9'),
-(86, 'Diablo Immortal', '6', '2','9'),
-(87, 'Diablo Immortal', '6', '2','9'),
-(88, 'Diablo Immortal', '6', '2','9'),
-(89, 'Diablo Immortal', '6', '2','9'),
-(90, 'Diablo Immortal', '6', '2','9'),
+(81, 'FORSPOKEN', '6', '2','9'),
+(82, 'THEATRHYTHM FINAL BAR LINE', '6', '2','9'),
+(83, 'Octopath Traveller II', '6', '2','9'),
+(84, 'FINAL FANTASY XVI', '6', '2','9'),
+(85, 'Chocobo GP', '6', '2','9'),
+(86, 'DRAGON QUEST TACT', '6', '2','9'),
+(87, 'KINGDOM HEARTS Missing-Link', '6', '2','9'),
+(88, 'Little Goody Two Shoes', '6', '2','9'),
+(89, 'Circuit Superstars', '6', '2','9'),
+(90, 'The Diofield Chronicle', '6', '2','9'),
 
-(91, 'Diablo Immortal', '6', '2','10'),
-(92, 'Diablo Immortal', '6', '2','10')
-(93, 'Diablo Immortal', '6', '2','10'),
-(94, 'Diablo Immortal', '6', '2','10'),
-(95, 'Diablo Immortal', '6', '2','10'),
-(96, 'Diablo Immortal', '6', '2','10'),
-(97, 'Diablo Immortal', '6', '2','10'),
-(98, 'Diablo Immortal', '6', '2','10'),
-(99, 'Diablo Immortal', '6', '2','10'),
-(100, 'Diablo Immortal', '6', '2','10')
+(91, 'Super World War', '6', '2','10'),
+(92, 'Planet Go', '6', '2','10')
+(93, 'Fernbus Coach Simulator', '6', '2','10'),
+(94, 'Hot Lap Racing', '6', '2','10'),
+(95, 'Hell Diggers (The Sandbox)', '6', '2','10'),
+(96, 'Roots Of Tomorrow', '6', '2','10'),
+(97, 'Dogami', '6', '2','10'),
+(98, 'PowerZ', '6', '2','10'),
+(99, 'Linelight', '6', '2','10'),
+(100, 'Out Of Line', '6', '2','10')
